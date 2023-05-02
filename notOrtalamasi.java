@@ -30,7 +30,7 @@ public class notOrtalamasi {
 
 
         System.out.println("Ortalamaniz: " + sonuc);
-        System.out.println(sonuc >= 60 ? "gectiniz" : "kaldiniz");
+        System.out.println(sonuc >= 60 ? "Sinifi gecti" : "Sinifta kaldi");
     }
 
 }
