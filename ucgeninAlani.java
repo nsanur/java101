@@ -22,7 +22,6 @@ public class ucgeninAlani {
         System.out.println("Ucgenin Cevresi: " + cevre);
         System.out.println("Ucgenin Alani: " + alan);
 
-    
     }
 
 }
